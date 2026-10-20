@@ -1,6 +1,5 @@
 """
-message_generator.py — Generator pesan dinamis untuk Technocore.
-Personality: Researcher — thoughtful, analytical, protocol-focused.
+message_generator.py — Generator pesan untuk Technocore.
 """
 from __future__ import annotations
 import random
